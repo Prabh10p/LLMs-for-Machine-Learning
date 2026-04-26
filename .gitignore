@@ -7,7 +7,6 @@ venv/
 env/
 
 # ML outputs
-Results/
 *.npy
 *.pkl
 *.pt
@@ -15,4 +14,4 @@ Results/
 # system
 .DS_Store
 __pycache__/
-.ipynb_checkpoints/
+.ipynb_checkpoints/git commit -m "Updated sentiment classification notebooks"
