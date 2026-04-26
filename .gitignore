@@ -1,3 +1,18 @@
 Reviews.csv
 .env
 .env
+# virtual environment
+newenv/
+venv/
+env/
+
+# ML outputs
+Results/
+*.npy
+*.pkl
+*.pt
+
+# system
+.DS_Store
+__pycache__/
+.ipynb_checkpoints/
